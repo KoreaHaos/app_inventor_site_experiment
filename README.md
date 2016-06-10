@@ -1,8 +1,8 @@
 # Haos Torn Down : MIT App Inventor
 
-I find the App Inventor Site a bit inefficent.
+##### *I find the App Inventor Site a very slight, just a little bit, inefficent?*
 
-I wonder ...
+### I wonder ...
 
 * First try : Copy/Paste source and move assets in as needed.
     * Problems :
